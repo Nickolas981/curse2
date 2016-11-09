@@ -1,0 +1,4 @@
+﻿  cFile.cpp
+l:\курсач\coursework\cfile.cpp(66): warning C4101: 'flag': unreferenced local variable
+  Coursework.vcxproj -> L:\курсач\x64\Debug\Coursework.exe
+  Coursework.vcxproj -> L:\курсач\x64\Debug\Coursework.pdb (Full PDB)
